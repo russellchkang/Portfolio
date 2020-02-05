@@ -316,6 +316,21 @@ p {
   border-color: transparent;
 }
 
+/* Connect */
+
+.social a {
+  font-size: 1.5em;
+  padding: 2.5rem;
+}
+.fa-linkedin {
+  color: #0f65c7;
+}
+.fa-github{
+  color: white;
+}
+.fa-google-plus-g{
+  color: #8B0000;
+}
 
 /* Footer */
 footer {
